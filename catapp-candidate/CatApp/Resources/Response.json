@@ -1,0 +1,38 @@
+[
+    {
+        "id": "abys",
+        "name": "Abyssinian",
+        "description": "The Abyssinian is easy to care for, and a joy to have in your home. They’re affectionate cats and love both people and other animals.",
+        "image": "https://cdn2.thecatapi.com/images/LSaDk6OjY.jpg"
+    },
+    {
+        "id": "aege",
+        "name": "Aegean",
+        "description": null,
+        "image": "https://cdn2.thecatapi.com/images/bl9.jpg"
+    },
+    {
+        "id": "abob",
+        "name": "American Bobtail",
+        "description": "American Bobtails are loving and incredibly intelligent cats possessing a distinctive wild appearance. They are extremely interactive cats that bond with their human family with great devotion.",
+        "image": "https://cdn2.thecatapi.com/images/c8e.jpg"
+    },
+    {
+        "id": "acur",
+        "name": "American Curl",
+        "description": "Distinguished by truly unique ears that curl back in a graceful arc, offering an alert, perky, happily surprised expression, they cause people to break out into a big smile when viewing their first Curl. Curls are very people-oriented, faithful, affectionate soulmates, adjusting remarkably fast to other pets, children, and new situations.",
+        "image": "https://cdn2.thecatapi.com/images/dkc.jpg"
+    },
+    {
+        "id": "asho",
+        "name": "American Shorthair",
+        "description": "The American Shorthair is known for its longevity, robust health, good looks, sweet personality, and amiability with children, dogs, and other pets.",
+        "image": null
+    },
+    {
+        "id": "awir",
+        "name": "American Wirehair",
+        "description": "The American Wirehair tends to be a calm and tolerant cat who takes life as it comes. His favorite hobby is bird-watching from a sunny windowsill, and his hunting ability will stand you in good stead if insects enter the house.",
+        "image": "https://cdn2.thecatapi.com/images/edk.jpg"
+    }
+]
